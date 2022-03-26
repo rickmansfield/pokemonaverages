@@ -2,7 +2,7 @@ import React from 'react';
 import { render, screen, waitFor } from '@testing-library/react';
 import Pokecli from './Pokecli';
 
-const utils = require("./index");
+const utils = require(".Pokecli");
 
 const testpoke = {
   name: "bulbasaur",

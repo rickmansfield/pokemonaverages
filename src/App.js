@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-// import Pokecli from './components/pokecli';
+import Pokecli from './components/Pokecli';
 
 function App() {
   return (
